@@ -14,10 +14,3 @@ Jewish holidays
 
 
 ### A explanation of what Gamatria is and its significance within Judaism
-
-### A breif glossary of what Jewish words within the codebase mean
-
-* **word** - definition
-* **word** - definition
-* **word** - definition
-* **word** - definition
