@@ -13,6 +13,3 @@ Please ensure that all code contributed;
 * I will try to respond quickly to pull requests however as an observant Jew I may not be able to respond quickly over 
 Jewish holidays
 * TODO add to these lists
-
-
-#### A explanation of what Gamatria is and its significance within Judaism
