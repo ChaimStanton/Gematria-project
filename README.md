@@ -13,3 +13,6 @@ Please ensure that all code contributed;
 * I will try to respond quickly to pull requests however as an observant Jew I may not be able to respond quickly over 
 Jewish holidays
 * TODO add to these lists
+
+### Travis 
+- I have tried to intagrate this with travis CI 
