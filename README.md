@@ -16,3 +16,6 @@ Jewish holidays
 
 ### Travis 
 - I have tried to intagrate this with travis CI 
+
+### Attribution
+Thank you to Seferia for the API to access the bibilcal texts and http://www.tanach.us
